@@ -1,0 +1,33 @@
+{
+  "BRGBlackList": [
+    "asiaweb",
+    "cancelon",
+    "ctrip",
+    "elvoline",
+    "happyrooms",
+    "hoteling",
+    "hotelsclick",
+    "ostrovok",
+    "roomertravel"
+  ],
+  "vatSPGInclusiveList":{
+    "italy": 0.1,
+    "france": 0.1,
+    "germany": 0.07,
+    "united kingdom": 0.2,
+    "spain" : 0.1,
+    "ireland" : 0.09,
+    "austria" : 0.13,
+    "portugal" : 0.06,
+    "greece": 0.13,
+    "sweden" : 0.12,
+    "switzerland" : 0.038,
+    "belgium": 0.06,
+    "iceland": 0.11,
+    "netherlands": 0.06,
+    "slovenia": 0.095,
+    "mauritius": 0.15,
+    "croatia" : 0.13,
+    "hungary": 0.18
+  }
+}
